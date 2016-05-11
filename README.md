@@ -3,7 +3,7 @@
 12-bit ADC and DAC to develop audio projects on a
 Spartan 3E Starter Kit development board.
 
-Audio is working on 1 channel but modules are easily modifible to
+Audio is working on 1 channel but modules are easily modifiable to
 get stereo sound.
 
 Read the datasheet to get it working since it needs a reference voltage
