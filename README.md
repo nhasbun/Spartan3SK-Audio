@@ -7,6 +7,6 @@ Audio is working on 1 channel but modules are easily modifiable to
 get stereo sound.
 
 Read the datasheet to get it working since it needs a reference voltage
-of 1.65V to acquire analog data and Gain needed is also easily modifible.
+of 1.65V to acquire analog data and Gain needed is also easily modifiable.
 
 Works with on-board 50MHz clock with a default sample rate of ~40kHz.
